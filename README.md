@@ -22,4 +22,4 @@ Telegram: [@yousuketrist](https://t.me/yousuketrist) <br>
 
 ## Collaborator
 
-Ichiro(https://github.com/startdragondev315)
+Ichiro(https://github.com/startdragondev315) and Yosuke
